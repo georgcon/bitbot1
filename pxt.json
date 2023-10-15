@@ -1,5 +1,5 @@
 {
-    "name": "bitbot1",
+    "name": "bitbot-receive",
     "description": "",
     "dependencies": {
         "core": "*",
